@@ -3,6 +3,9 @@
 
 int main()
 {
-    printf("Hello world!\n");
+    while(1)
+    {
+        printf("Hello world!\n");
+    }
     return 0;
 }
